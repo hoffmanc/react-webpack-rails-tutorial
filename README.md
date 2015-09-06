@@ -2,6 +2,8 @@
 
 ## Now with Redux and ES7! Servering Rendering ASAP!
 
+<img src='https://travis-ci.org/hoffmanc/react-webpack-rails-tutorial.svg'>
+
 By Justin Gordon and the Shaka Code Team, http://www.railsonmaui.com
 
 - If you came to here from the blog article, this example project has evolved.
